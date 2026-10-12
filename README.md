@@ -1,78 +1,57 @@
-Hi, I'm Yassin Khalifa 👋
+## Hey, Haany here!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-Full-Stack Developer | C# | .NET | SQL Server
+<h1>Welcome to my humble abode in the Digital World..</h1> 
 
-I'm a Full-Stack Developer focused on building web applications using modern web technologies and the .NET ecosystem. I enjoy solving problems, learning new technologies, and turning ideas into practical applications.
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
-- 💻 Focused on Full-Stack Web Development with .NET
-- 🌱 Working with C#, ASP.NET Core MVC, Entity Framework Core, and SQL Server
-- 🚀 Working on Smart Venue, a smart venue management platform
-- 🎯 Always learning and improving my development skills
+![Linkedin Badge](https://www.linkedin.com/in/haany-ali) ![Gmail Badge](mailto:asterp04@gmail.com) ![Youtube Channel](https://www.youtube.com/channel/UCietjxpksncMdOUkycv5nqA)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
 
----
+<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
-🛠️ Technologies & Tools
+## :computer: Technologies I Love
+* Flutter
+* Machine Learning
+* Data Science
+* Frontend and Backend Web Development
 
-Programming Languages
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
 
-"C++" (https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-"C#" (https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## Programming Languages
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
+ 
+ ## Technologies I Use
+ <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/pycharm.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='40'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flutter-logo.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/django.svg' height='40'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>
+ 
+ ## Who am I?
+  class WhoAmI:
+  user = 'Haany Ali'
+  current_work = 'Writing code'
+  hobbies = [
+    'Drawing',
+    'Watching Anime',
+    'Reading Sci-Fi Novels'
+    'Being up all Night chasing that ONE BUG...'
+   ]
+ 
+ def getCity():
+  return Vancouver_Canada()
+ 
+ def Ambitions():
+  LearnJapanese()
+  CreateSkyNet()
+  FinishMyNovel()
+  # Assume 10 more awesome ambitions here  ;)
+ 
+ 
+ 
+## Current Works
+ * Breaking into Cybersec !!
+ * I'm currently working on 🔭 building Mobile Apps using Flutter and working up on polishing my skills 🌱 in Competitive Programming.
+ 
+## Other Stuff
+  - :octocat: My Resume
+  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
 
-Frontend Development
-
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-"Bootstrap" (https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-"React" (https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-Backend Development
-
-".NET" (https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-"ASP.NET Core MVC" (https://img.shields.io/badge/ASP.NET%20Core%20MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-"Entity Framework Core" (https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-Database
-
-"SQL Server" (https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-Development Tools
-
-"Visual Studio" (https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-"VS Code" (https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
----
-
-🚀 Featured Project
-
-Smart Venue
-
-A smart venue management platform for reservations, visitor tracking, capacity management, and business analytics.
-
-- 📅 Venue reservation and time-slot management
-- 👥 Visitor entry and exit tracking
-- 📊 Occupancy monitoring and business analytics
-
-Project status: In progress.
-
----
-
-📊 GitHub Stats
-
-"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=yassinkhalifa22&show_icons=true&hide_border=true&theme=default)
-
-"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=yassinkhalifa22&layout=compact&hide_border=true&theme=default)
-
----
-
-📫 Connect With Me
-
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/thapet)
-
-""Email" (https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail&logoColor=white)" (mailto:ykhlifa155@gmail.com)
-
----
-
-⭐ Thanks for visiting my profile!
+!Haany's github stats
